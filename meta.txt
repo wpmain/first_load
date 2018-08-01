@@ -1,6 +1,6 @@
 appStatus	:on
 #
-versionName	:2.1
+lastVersionName	:2.1
 #
 dataList
 %
