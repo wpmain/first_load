@@ -1,1 +1,1 @@
-3D:226:com.dikaseba.a3dwallpaper;
+3D:226;
