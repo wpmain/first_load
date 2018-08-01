@@ -1,22 +1,11 @@
-appStatus	:on
+on
 #
-lastVersionName	:2.1
+2.1
 #
-dataList
 %
-category	    :3D;
-imageTotal	  :226;
-offlinePakage :com.udisi.a3dwallpapers;
-@
-category	    :3D;
-imageTotal	  :226;
-offlinePakage :com.udisi.a3dwallpapers;
-@
-category	    :3D;
-imageTotal	  :226;
-offlinePakage :com.udisi.a3dwallpapers;
-@
-category      :3D;
-imageTotal    :226;
-offlinePakage :com.udisi.a3dwallpapers;
-@
+3D:226:com.udisi.a3dwallpapers;
+3Da:226:com.udisi.a3dwallpapers;
+3Db:226:com.udisi.a3dwallpapers;
+3Dc:226:com.udisi.a3dwallpapers;
+3Dd:226:com.udisi.a3dwallpapers;
+3De:226:com.udisi.a3dwallpapers;
