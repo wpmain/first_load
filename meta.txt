@@ -1,16 +1,22 @@
-{
-  appStatus:"on",
-  versionName:"2.1",
-  dataList:{
-                {
-                  category      :"3D",
-                  imageTotal    :"226",
-                  offlinePakage :"com.udisi.a3dwallpapers"
-                },
-                {
-                  category      :"Girly",
-                  imageTotal    :"300",
-                  offlinePakage :"com.udisi.girly"
-                }
-            }
-}
+appStatus	:on
+#
+versionName	:2.1
+#
+dataList
+%
+category	:3D;
+imageTotal	:226;
+offlinePakage	:com.udisi.a3dwallpapers;
+@
+category	:3D;
+imageTotal	:226;
+offlinePakage	:com.udisi.a3dwallpapers;
+@
+category	:3D;
+imageTotal	:226;
+offlinePakage	:com.udisi.a3dwallpapers;
+@
+category	:3D;
+imageTotal	:226;
+offlinePakage	:com.udisi.a3dwallpapers;
+@
