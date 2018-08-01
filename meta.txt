@@ -2,7 +2,6 @@ on
 #
 1.0
 #
-%
 3D:226:com.udisi.a3dwallpapers;
 3Da:226:com.udisi.a3dwallpapers;
 3Db:226:com.udisi.a3dwallpapers;
