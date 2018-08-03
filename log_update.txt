@@ -1,0 +1,4 @@
+
+<b>Updates on July 03, 2018</b><br>
+• Speed up connection to server.
+• Improvements to the menu layout
