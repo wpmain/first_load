@@ -1,4 +1,5 @@
 <b>Updates on July 03, 2018</b>
 <br/>• Speed up connection to server.
 <br/>• Improvements to the menu layout
+<br/>• Add log updates to the application.
 <br/>
