@@ -2,4 +2,4 @@ on
 #
 1.0
 #
-3D:226;
+3D Wallpapers:226;
