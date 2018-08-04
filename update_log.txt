@@ -1,3 +1,10 @@
+
+
+<b>Updates on July 04, 2018</b>
+<br/>• Add a Flat Design Category.
+<br/>• Add 224 Wallpapers in it.
+<br/>
+<br/>
 <b>Updates on July 03, 2018</b>
 <br/>• Speed up connection to server.
 <br/>• Improvements to the menu layout
