@@ -8,3 +8,4 @@ It will take about <b>30 minutes</b>.
 3D Wallpapers:226;
 Car Wallpapers:345;
 Flat Design Wallpapers:224;
+New Galaxy Wallpapers:224;
