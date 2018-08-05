@@ -3,7 +3,7 @@ on
 Sorry we improved the system better.
 It will take about <b>30 minutes</b>.
 #
-2.0
+2
 #
 3D Wallpapers:226;
 Car Wallpapers:465;
