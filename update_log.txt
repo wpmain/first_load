@@ -1,12 +1,14 @@
-
-
-<b>Updates on July 04, 2018</b>
+<b>Updates on August 06, 2018</b>
+<br/>• Add 326 items to the Girly Wallpapers category.
+<br/>
+<br/>
+<b>Updates on August 04, 2018</b>
 <br/>• Add 465 items to the Car Wallpapers category.
 <br/>• Add 224 items to the Flat Design Wallpapers category.
 <br/>• Add 224 items to the New Galaxy Wallpapers category.
 <br/>
 <br/>
-<b>Updates on July 03, 2018</b>
+<b>Updates on August 03, 2018</b>
 <br/>• Speed up connection to server.
 <br/>• Improvements to the menu layout
 <br/>• Add log updates to the application.
