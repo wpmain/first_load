@@ -1,3 +1,8 @@
+<b>Updates on August 12, 2018</b>
+<br/>• Fixing Memory Usage.
+<br/>• Supports Offline Mode (only requires connection at the beginning).
+<br/>
+<br/>
 <b>Updates on August 06, 2018</b>
 <br/>• Add 326 items to the Girly Wallpapers category.
 <br/>
