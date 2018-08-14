@@ -8,6 +8,6 @@ It will take about <b>30 minutes</b>.
 3D Wallpapers:226:com.udisi.a3dwallpapers;
 Car Wallpapers:465:com.udisi.carwallpapers;
 Flat Design Wallpapers:224;
-New Galaxy Wallpapers:224;
+New Galaxy Wallpapers:224:com.udisi.newgalaxywallpapers;
 Girly Wallpapers:326;
 Granny Wallpapers:78:com.udisi.grannywallpapers;
