@@ -10,3 +10,4 @@ Car Wallpapers:465:com.udisi.carwallpapers;
 Flat Design Wallpapers:224;
 New Galaxy Wallpapers:224;
 Girly Wallpapers:326;
+Granny Wallpapers:78:com.udisi.grannywallpapers;
